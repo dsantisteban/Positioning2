@@ -1,0 +1,28 @@
+
+.grande {
+	
+	width: 200px;
+	height: 200px;
+	background-color: #0048FB;
+	position: relative;
+
+}
+.mediano {
+	
+	width: 100px;
+	height: 100px;
+	background-color: #387804;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}
+
+
+.chico {
+	
+	width: 50px;
+	height: 50px;
+	background-color: #000000;
+	position: static;
+
+}
